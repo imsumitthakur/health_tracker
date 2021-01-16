@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745381269411",
+    "project_id": "health-tracker-ecc76",
+    "storage_bucket": "health-tracker-ecc76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745381269411:android:dd192c62f8756818eed416",
+        "android_client_info": {
+          "package_name": "com.epark.health_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745381269411-ed2mo4msljptbes6q0iqsh5vbv2mcq2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB23VV7lKUpJg08mDMt-xl4gGJxitAdNZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745381269411-ed2mo4msljptbes6q0iqsh5vbv2mcq2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
